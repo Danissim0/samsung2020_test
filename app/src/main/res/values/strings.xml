@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sum">Сумма</string>
+    <string name="answer">Ответ</string>
+    <string name="minus">Минус</string>
+    <string name="solve">Решить</string>
+</resources>
